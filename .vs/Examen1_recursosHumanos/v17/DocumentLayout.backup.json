@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danio\\source\\repos\\Examen1_recursosHumanos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D0C6A98-7B02-4BC9-81B0-5C289DA34B00}|Examen1_recursosHumanos\\Examen1_recursosHumanos.csproj|c:\\users\\danio\\source\\repos\\examen1_recursoshumanos\\examen1_recursoshumanos\\empleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D0C6A98-7B02-4BC9-81B0-5C289DA34B00}|Examen1_recursosHumanos\\Examen1_recursosHumanos.csproj|solutionrelative:examen1_recursoshumanos\\empleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D0C6A98-7B02-4BC9-81B0-5C289DA34B00}|Examen1_recursosHumanos\\Examen1_recursosHumanos.csproj|c:\\users\\danio\\source\\repos\\examen1_recursoshumanos\\examen1_recursoshumanos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D0C6A98-7B02-4BC9-81B0-5C289DA34B00}|Examen1_recursosHumanos\\Examen1_recursosHumanos.csproj|solutionrelative:examen1_recursoshumanos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D0C6A98-7B02-4BC9-81B0-5C289DA34B00}|Examen1_recursosHumanos\\Examen1_recursosHumanos.csproj|c:\\users\\danio\\source\\repos\\examen1_recursoshumanos\\examen1_recursoshumanos\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D0C6A98-7B02-4BC9-81B0-5C289DA34B00}|Examen1_recursosHumanos\\Examen1_recursosHumanos.csproj|solutionrelative:examen1_recursoshumanos\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "empleados.cs",
+              "DocumentMoniker": "C:\\Users\\danio\\source\\repos\\Examen1_recursosHumanos\\Examen1_recursosHumanos\\empleados.cs",
+              "RelativeDocumentMoniker": "Examen1_recursosHumanos\\empleados.cs",
+              "ToolTip": "C:\\Users\\danio\\source\\repos\\Examen1_recursosHumanos\\Examen1_recursosHumanos\\empleados.cs*",
+              "RelativeToolTip": "Examen1_recursosHumanos\\empleados.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T00:40:13.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\danio\\source\\repos\\Examen1_recursosHumanos\\Examen1_recursosHumanos\\Menu.cs",
+              "RelativeDocumentMoniker": "Examen1_recursosHumanos\\Menu.cs",
+              "ToolTip": "C:\\Users\\danio\\source\\repos\\Examen1_recursosHumanos\\Examen1_recursosHumanos\\Menu.cs",
+              "RelativeToolTip": "Examen1_recursosHumanos\\Menu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T00:39:54.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\danio\\source\\repos\\Examen1_recursosHumanos\\Examen1_recursosHumanos\\Program.cs",
+              "RelativeDocumentMoniker": "Examen1_recursosHumanos\\Program.cs",
+              "ToolTip": "C:\\Users\\danio\\source\\repos\\Examen1_recursosHumanos\\Examen1_recursosHumanos\\Program.cs",
+              "RelativeToolTip": "Examen1_recursosHumanos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T00:30:09.458Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

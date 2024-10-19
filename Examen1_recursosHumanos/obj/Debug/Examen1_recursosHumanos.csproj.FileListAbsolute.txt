@@ -1,0 +1,7 @@
+C:\Users\danio\source\repos\Examen1_recursosHumanos\Examen1_recursosHumanos\bin\Debug\Examen1_recursosHumanos.exe.config
+C:\Users\danio\source\repos\Examen1_recursosHumanos\Examen1_recursosHumanos\bin\Debug\Examen1_recursosHumanos.exe
+C:\Users\danio\source\repos\Examen1_recursosHumanos\Examen1_recursosHumanos\bin\Debug\Examen1_recursosHumanos.pdb
+C:\Users\danio\source\repos\Examen1_recursosHumanos\Examen1_recursosHumanos\obj\Debug\Examen1_recursosHumanos.csproj.AssemblyReference.cache
+C:\Users\danio\source\repos\Examen1_recursosHumanos\Examen1_recursosHumanos\obj\Debug\Examen1_recursosHumanos.csproj.CoreCompileInputs.cache
+C:\Users\danio\source\repos\Examen1_recursosHumanos\Examen1_recursosHumanos\obj\Debug\Examen1_recursosHumanos.exe
+C:\Users\danio\source\repos\Examen1_recursosHumanos\Examen1_recursosHumanos\obj\Debug\Examen1_recursosHumanos.pdb
